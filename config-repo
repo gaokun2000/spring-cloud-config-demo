@@ -1,5 +1,0 @@
-spring:
-  commmisndatasource: 
-    url: jdbc:mysql://localhost:3306/i_yf_hunan?useUnicode=true&characterEncoding=UTF8
-    username: root
-    password: 123
